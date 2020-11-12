@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 90%;
+    padding-left: 60px;
+    height: auto;
+    padding-top: 60px;
+}
+
+.content{
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 4px;
+    padding-top: 4px;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 4px;
+    padding-top: 4px;
+}
+
+h1{
+    padding-left: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topping{
+    background-color: #C4C4C4;
+}
+
+.schedule{
+    height: 200px;
+    background-color: #EFEFEF;
+}
+
+.announcement{
+    margin-top: 11px;
+    height: 200px;
+    background-color: #EFEFEF;
+}
+
+.left{
+    width: 32%;
+}
+
+.calander{
+    padding-left: 12%;
+}
+
+.mid{
+    width: 32%;
+    margin-left: 12px;
+    background-color: #EFEFEF;
+}
+
+.search{
+    padding:0px 4px;
+    padding-top: 2px;
+}
+
+.search_bar{
+    width: 90%;
+}
+
+.app_list{
+    padding: 0px 2px;
+    padding-top: 4px;
+}
+
+.right{
+    width: 32%;
+    margin-left: 12px;
+    background-color: #EFEFEF;
+}
+
+.right a{
+    padding-top: 0;
+    padding-left: 2px;
+}
+.bottom{
+    padding-top: 10px;
+}
+
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #333333;
+    background-color: grey;
+    padding: 1px 1px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+}

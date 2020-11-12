@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 90%;
+    padding-left: 60px;
+    height: auto;
+    padding-top: 60px;
+}
+
+.content{
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 4px;
+    padding-top: 4px;
+}
+
+h1{
+    padding-left: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topping{
+    background-color: #C4C4C4;
+}
+
+.announcement{
+    height: 100%;
+}
+
+.left{
+    width: 50%;
+    height: 375px;
+    background-color: #EFEFEF;
+}
+
+.right{
+    width: 50%;
+    height: 375px;
+    margin-left: 12px;
+    background-color: #EFEFEF;
+}
+
+.interact{
+    padding-top: 15%;
+    padding-left: 35.5%;
+}
+
+.user_info{
+    padding-left: 2px;
+}
+
+.pw{
+    padding-left: 2px;
+}
+
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #333333;
+    background-color: grey;
+    padding: 1px 1px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+}
+
+.login_btn{
+    padding-left: 2px;
+}
+
+.back{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #333333;
+    padding: 1px 1px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+}
